@@ -1,18 +1,25 @@
-## Hi, my name is Ethan Gould
+## Hi, my name is Ethan Gould 👋
 
-I am a Biomedical Science graduate, building at the intersection of technology, health and science.
+- **Degree**: Bachelors of Science in Biomedical Science, with an emphasis in Nutrition and a minor in Health Care Ethics
+- **Areas of Interest**: Engineering, Research, Health Technology
+- **Languages:
 
-## Current Projects
+## Current Projects 💼
 ### Balance:
-An AI powered personal intelligence, that analyze elements of ones life through there personal journal articles, determining how different people, places or things, effect ones life
+- An AI powered personal intelligence, that analyze elements of ones life through there personal journal articles, determining how different people, places or things, effect ones life
 
-**Technology**: Swift • Codex • AI/NLP
+>**Technology**: Swift • Codex • AI/NLP
 
 ### Clean Health Viewer
-An IOS application designed to make health data more interpretable over the long term.
+- An IOS application designed to make health data more interpretable over the long term.
 
-**Technology**: Swift • Codex • HealthKit 
+> **Technology**: Swift • Codex • HealthKit 
 
+## Areas of Interest 🔬
+
+- Pharmacokinetics and Biological Modeling
+- Linear Algebra
+- Digital Health and Wearable Technology
 
 <!--
 
