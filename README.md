@@ -6,13 +6,13 @@
 
 ## Current Projects 💼
 
-### BioPsych
+### BioPsych 🧠
 - A Swift journaling app designed to help people put words to what they feel and connect those emotions to the events and physical sensations they describe.
 - I’m training and benchmarking models that can identify multiple emotions in a single journal entry.
 
 > **Technology**: Swift • Xcode • PyTorch • Natural Language Processing
 
-### Clean Health Viewer
+### Clean Health Viewer 🏥
 - An iOS app designed to make long-term Apple Health data easier to interpret, with a focus on how health measurements change over weeks and months.
 
 > **Technology**: Swift • Xcode • HealthKit
