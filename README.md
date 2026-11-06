@@ -2,7 +2,7 @@
 
 - **Degree**: Bachelors of Science in Biomedical Science, with an emphasis in Nutrition and a minor in Health Care Ethics
 - **Areas of Interest**: Engineering, Research, Health Technology
-- **Languages: Xcode, Python
+- **Languages**: Xcode, Python
 
 ## Current Projects 💼
 ### Balance:
